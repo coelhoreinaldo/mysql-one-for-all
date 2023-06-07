@@ -1,10 +1,27 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# 🐬 MySQL - One For All
+
+![Queries](./project.png)
+
+## 📘 Sobre
+
+Utilizei o MySQL Workbench para criar um banco de dados simplificado do Spotify. Normalizei uma tabela de dados e criei um banco de dados.
+
+## ⚛️ Ferramentas
+
+Projeto construído utilizando React.js.
+
+- Docker;
+- MySQL.
+
+## 🛠️ Como executar o projeto?
+
+1. Suba os containers da aplicação com `docker-compose up -d`
+2. Abra o terminal do container `docker exec -it all_for_one bash`
+
+## 📝 Nota
+
+![100% de aprovação no projeto](./grade.png)
+
+## ©️ Copyright
+
+- Os arquivos 'challenges' foram desenvolvidos por mim por mim, todo o resto é de autoria da Trybe.

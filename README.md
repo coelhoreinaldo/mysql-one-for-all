@@ -8,8 +8,6 @@ Utilizei o MySQL Workbench para criar um banco de dados simplificado do Spotify.
 
 ## ⚛️ Ferramentas
 
-Projeto construído utilizando React.js.
-
 - Docker;
 - MySQL.
 

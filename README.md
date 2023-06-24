@@ -16,7 +16,7 @@ Projeto construído utilizando React.js.
 ## 🛠️ Como executar o projeto?
 
 1. Suba os containers da aplicação com `docker-compose up -d`
-2. Abra o terminal do container `docker exec -it all_for_one bash`
+2. Abra o terminal do container `docker exec -it one_for_all bash`
 
 ## 📝 Nota
 
